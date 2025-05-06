@@ -62,8 +62,7 @@ Copy
 uvicorn main:app --reload
 Access the API
 
-Open your browser and navigate to http://127.0.0.1:8000/docs to access the interactive API documentation provided by FastAPI.
-API Endpoints
+
 Patients
 
 POST /patients - Create a new patient
